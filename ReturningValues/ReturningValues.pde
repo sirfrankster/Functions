@@ -9,3 +9,11 @@ void draw() {
 void fahrenthietocentigrade () {
   
 }
+
+void distance=acceleration*time () {
+  
+}
+
+void sincurve () {
+  
+}
